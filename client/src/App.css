@@ -1,0 +1,10 @@
+.containerShowPosts{
+  padding: 5%;
+}
+
+.showingPosts{
+  border-bottom: 10px solid red;
+}
+p{
+  font-size: 20px;
+}
